@@ -1,2 +1,3 @@
 # Curso-LaTeX-AMAT
-vieja dirección del curso de latex
+
+Vieja dirección del curso de latex. El curso ahora se puede encontrar [aquí](https://github.com/latex-mat-ugr/Curso-LaTeX).
